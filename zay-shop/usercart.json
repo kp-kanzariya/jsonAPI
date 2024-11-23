@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "c59b",
+      "email": "mitul8200@gmail.com",
+      "name": "Kruparth Kanzariya",
+      "phone": "8200273311",
+      "address": "Samras Boy's Hostel Road University Area",
+      "bio": "i am student at tops tach",
+      "pic": "/assets/img/shop_07.jpg",
+      "password": "123",
+      "cart": [
+        {
+          "productId": "f6ca",
+          "productImg": "/assets/img/shop_10.jpg",
+          "productName": "Thiddtt new price imgs",
+          "productPrice": "429",
+          "productQuantity": 4,
+          "size": "S"
+        },
+        {
+          "productId": "7dbd",
+          "productImg": "/assets/img/shop_01.jpg",
+          "productName": "Trending Shoes",
+          "productPrice": "655",
+          "productQuantity": 2,
+          "size": "M"
+        }
+      ]
+    },
+    {
+      "id": "1362",
+      "email": "jane.smith@example.com",
+      "name": "Kruparth Kanzariya",
+      "phone": "8200273322",
+      "address": "Samras Boy's Hostel Road University Area",
+      "bio": "i am student at tops tach",
+      "pic": "/assets/img/shop_05.jpg",
+      "password": "12345",
+      "cart": [
+        {
+          "productId": "7dbd",
+          "productImg": "/assets/img/shop_01.jpg",
+          "productName": "Trending Shoes",
+          "productPrice": "655",
+          "productQuantity": 1,
+          "size": "S"
+        }
+      ]
+    },
+    {
+      "id": "e5ff",
+      "email": "kruparth2000@gmail.com",
+      "name": "new user",
+      "phone": "9546541254",
+      "address": "Samras Boy's Hostel Road University Area",
+      "bio": "i am student at tops tech as react devloper",
+      "pic": "/assets/img/shop_10.jpg",
+      "password": "123",
+      "cart": [
+        {
+          "productId": "1",
+          "productImg": "/assets/img/shop_10.jpg",
+          "productName": "New Colletion of Shoe",
+          "productPrice": "250.00",
+          "productQuantity": 2,
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "id": "32f4",
+      "email": "kruparth2003@gmail.com",
+      "name": "Kruparth Kanzariya",
+      "phone": "8200273333",
+      "address": "Samras Boy's Hostel Road University Area",
+      "bio": "dtytiu;lkl.",
+      "pic": "/assets/img/shop_06.jpg",
+      "password": "123321",
+      "cart": [
+        {
+          "productId": "7dbd",
+          "productImg": "/assets/img/shop_01.jpg",
+          "productName": "Trending Shoes",
+          "productPrice": "655",
+          "productQuantity": 2,
+          "size": "S"
+        }
+      ]
+    }
+  ]
+}

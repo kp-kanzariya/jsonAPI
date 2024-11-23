@@ -1,0 +1,42 @@
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+
+.sidebar a {
+  padding: 13px;
+  text-decoration: none;
+  display: block;
+  font-size: 18px;
+  color: #333;
+  border: 1px solid gray;
+}
+
+.sidebar a.active {
+  background-color: #ddd;
+  color: #000;
+}
+
+.sidebar a:hover {
+  background-color: #dda;
+  color: #000;
+}
+
+
+.product-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
